@@ -1,0 +1,18 @@
+
+U
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "ran".(®ÅÔıÿÿÿÿ
+—
+java:S1130
+"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê
+
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”ßÜŒøÿÿÿÿ
+C
+java:S1481"(Remove this unused "ran" local variable.(®ÅÔıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³
+V	java:S125"<This block of commented-out lines of code should be removed.(¿´Æªÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ò ˜Şùÿÿÿÿ

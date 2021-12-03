@@ -1,0 +1,11 @@
+
+E
+java:S3740""/Provide the parametrized type for this generic.(† òÝ
+Q	java:S125"<This block of commented-out lines of code should be removed.(éí‚Õ
+E
+java:S3740""/Provide the parametrized type for this generic.(† òÝ
+o
+java:S3012K"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ãÛØž
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ž¤äŽýÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(èüÅô
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ

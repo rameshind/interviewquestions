@@ -1,0 +1,15 @@
+
+Q
+java:S3740
+"/Provide the parametrized type for this generic.(¡ãüÿÿÿÿ8¥¼¡Ï.
+Q
+java:S3740
+"/Provide the parametrized type for this generic.(¡ãüÿÿÿÿ8¥¼¡Ï.
+Q
+java:S3740"/Provide the parametrized type for this generic.(‡²²×ıÿÿÿÿ8¥¼¡Ï.
+W
+java:S1854"5Remove this useless assignment to local variable "m".(‡²²×ıÿÿÿÿ8¥¼¡Ï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Û¸Õí8¥¼¡Ï.
+H
+java:S1481"&Remove this unused "m" local variable.(‡²²×ıÿÿÿÿ8¥¼¡Ï.
+X	java:S125#"<This block of commented-out lines of code should be removed.(ñú¢8¥¼¡Ï.
